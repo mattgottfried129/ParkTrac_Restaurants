@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <base href="$FLUTTER_BASE_HREF" />
+
+  <meta charset="UTF-8" />
+  <meta content="IE=Edge" http-equiv="X-UA-Compatible" />
+  <meta name="description" content="ParkTrac Restaurants Tracker" />
+
+  <!-- iOS meta tags & icons -->
+  <meta name="mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black" />
+  <meta name="apple-mobile-web-app-title" content="restaurant_tracker" />
+  <link rel="apple-touch-icon" href="icons/Icon-192.png" />
+
+  <!-- Favicon -->
+  <link rel="icon" type="image/png" href="favicon.png" />
+
+  <title>ParkTrac Restaurants</title>
+  <link rel="manifest" href="manifest.json" />
+
+  <!-- ✅ Firebase Web SDKs (compat versions required for Flutter Web) -->
+  <script src="https://www.gstatic.com/firebasejs/10.12.2/firebase-app-compat.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/10.12.2/firebase-firestore-compat.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/10.12.2/firebase-auth-compat.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/10.12.2/firebase-analytics-compat.js"></script>
+
+  <!-- ✅ Initialize Firebase -->
+  <script>
+    const firebaseConfig = {
+      apiKey: "AIzaSyBTx9wT94LvHpZfgxxs2p2wvUR8szh6Fwo",
+      authDomain: "tprestauranttracker.firebaseapp.com",
+      projectId: "tprestauranttracker",
+      storageBucket: "tprestauranttracker.firebasestorage.app",
+      messagingSenderId: "110197855699",
+      appId: "1:110197855699:web:6db1d58a1eb20fc3298b26"
+    };
+
+    // Initialize Firebase before Flutter loads
+    firebase.initializeApp(firebaseConfig);
+    console.log("✅ Firebase JS SDK initialized");
+  </script>
+</head>
+<body>
+<!-- Flutter app root -->
+<script src="flutter.js" defer></script>
+<script src="main.dart.js" type="application/javascript"></script>
+</body>
+</html>
