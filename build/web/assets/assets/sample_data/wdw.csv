@@ -1,0 +1,175 @@
+resort,name,location,type,price,visited,ratingHeather,ratingMatt
+wdw,1900 Park Fare,Disney's Grand Floridian Resort & Spa,Character Dining,$$$$,False,,
+wdw,4 Rivers Cantina Barbacoa Food Truck,Disney Springs,Quick Service,$,False,,
+wdw,50's Prime Time Café,Disney's Hollywood Studios,Table Service,$$,True,4.0,3.0
+wdw,ABC Commissary,Disney's Hollywood Studios,Quick Service,$,True,2.0,1.0
+wdw,Akershus Royal Banquet Hall,EPCOT,Character Dining,$$$$,False,,
+wdw,Ale & Compass Restaurant,Disney's Yacht Club Resort,Table Service,$$,False,,
+wdw,Amare,Walt Disney World Swan Reserve,Table Service,$$$,False,,
+wdw,B.B. Wolf's Sausage Co.,Disney Springs,Quick Service,$,False,,
+wdw,Backlot Express,Disney's Hollywood Studios,Quick Service,$,True,2.0,3.0
+wdw,Banana Cabana,Disney's Caribbean Beach Resort,Table Service,$,False,,
+wdw,Be Our Guest Restaurant,Magic Kingdom Park,Table Service,$$$$,True,4.0,4.0
+wdw,Beach Club Marketplace,Disney's Beach Club Resort,Quick Service,$,False,,
+wdw,Beaches & Cream Soda Shop,Disney's Beach Club Resort,Table Service,$$,False,,
+wdw,Biergarten Restaurant,EPCOT,Table Service,$$,True,5.0,5.0
+wdw,Blaze Fast-Fire'd Pizza,Disney Springs,Quick Service,$,True,1.0,1.0
+wdw,BoardWalk Deli,Disney's BoardWalk,Quick Service,$,False,,
+wdw,Boatwright's Dining Hall,Disney's Port Orleans Resort - Riverside,Table Service,$$,False,,
+wdw,Boma - Flavors of Africa,Disney's Animal Kingdom Lodge,Table Service,$$$,True,5.0,5.0
+wdw,California Grill,Disney's Contemporary Resort,Table Service,$$$$,False,,
+wdw,Capa,Four Season Resort Orlando,Table Service,$$$$,False,,
+wdw,Cape May Cafe,Disney's Beach Club Resort,Table Service,$$$,False,,
+wdw,Capt. Cook's,Disney's Polynesian Village Resort,Quick Service,$,False,,
+wdw,Casey's Corner,Magic Kingdom Park,Quick Service,$,False,,
+wdw,Catalina Eddie's,Disney's Hollywood Studios,Quick Service,$,False,,
+wdw,Centertown Market,Disney's Caribbean Beach Resort,Quick Service,$,False,,
+wdw,Chef Art Smith's Homecomin',Disney Springs,Table Service,$$,False,,
+wdw,Chef Mickey's,Disney's Contemporary Resort,Table Service,$$$$,True,2.0,2.0
+wdw,Chefs de France,EPCOT,Table Service,$$$$,True,4.0,3.0
+wdw,Chicken Guy!,Disney Springs,Table Service,$,True,3.0,2.0
+wdw,Chip 'n' Dale's Deli,Disney's Saratoga Springs Resort & Spa or Disney's Polynesian Village Resort,Quick Service,$,False,,
+wdw,Cinderella's Royal Table,Magic Kingdom Park,Table Service,$$$$,False,,
+wdw,Cítricos,Disney's Grand Floridian Resort & Spa,Table Service,$$$,False,,
+wdw,City Works Eatery & Pour House,Disney Springs,Table Service,$$,False,,
+wdw,Columbia Harbour House,Magic Kingdom Park,Quick Service,$,True,5.0,4.0
+wdw,Connections Eatery,EPCOT,Quick Service,$,False,,
+wdw,Contempo Café,Disney's Contemporary Resort,Quick Service,$,False,,
+wdw,Cookes of Dublin,Disney Springs,Quick Service,$,False,,
+wdw,Coral Reef Restaurant,EPCOT,Table Service,$$,False,,
+wdw,Cosmic Ray's Starlight Café,Magic Kingdom Park,Quick Service,$,True,3.0,4.0
+wdw,D-Luxe Burger,Disney Springs,Quick Service,$,True,1.0,1.0
+wdw,Docking Bay 7 Food and Cargo,Disney's Hollywood Studios,Quick Service,$$,True,1.0,2.0
+wdw,Dockside Diner,Disney's Hollywood Studios,Quick Service,$,False,,
+wdw,Earl of Sandwich®,Disney Springs,Quick Service,$,False,,
+wdw,eet by Maneet Chauhan,Disney Springs,Quick Service,$$,False,,
+wdw,El Mercado de Coronado,Disney's Coronado Springs Resort,Quick Service,$,False,,
+wdw,End Zone Food Court,Disney's All-Star Sports Resort,Quick Service,$,False,,
+wdw,Enzo's Hideaway,Disney Springs,Table Service,$$,False,,
+wdw,ESPN Wide World of Sports Grill,ESPN Wide World of Sports Complex,Quick Service,$,False,,
+wdw,Everything POP Shopping & Dining,Disney's Pop Century Resort,Quick Service,$,False,,
+wdw,Fairfax Fare,Disney's Hollywood Studios,Quick Service,$,False,,
+wdw,Flame Tree Barbecue,Disney's Animal Kingdom Theme Park,Quick Service,$,True,4.0,3.0
+wdw,Flying Fish,Disney's BoardWalk,Table Service,$$$,False,,
+wdw,Frontera Cocina,Disney Springs,Table Service,$,False,,
+wdw,Garden Grill Restaurant,EPCOT,Table Service,$$$$,False,,
+wdw,Garden Grove,Walt Disney World Swan Hotel,Table Service,$$,False,,
+wdw,Gasparilla Island Grill,Disney's Grand Floridian Resort & Spa,Quick Service,$,False,,
+wdw,Geyser Point Bar & Grill,Disney's Wilderness Lodge,Table Service,$$,False,,
+wdw,Grand Floridian Cafe,Disney's Grand Floridian Resort & Spa,Table Service,$$,False,,
+wdw,Harambe Market,Disney's Animal Kingdom Theme Park,Quick Service,$,False,,
+wdw,Hollywood & Vine,Disney's Hollywood Studios,Table Service,$$$$,False,,
+wdw,Hoop-Dee-Doo Musical Revue,The Campsites at Disney's Fort Wilderness Resort,Table Service,$$$$,True,5.0,4.0
+wdw,House of Blues Restaurant & Bar,Disney Springs,Table Service,$$,False,,
+wdw,Il Mulino,Walt Disney World Swan,Table Service,$$$,False,,
+wdw,Intermission Food Court,Disney's All-Star Music Resort,Quick Service,$,False,,
+wdw,Jaleo by José Andrés,Disney Springs,Table Service,$$,False,,
+wdw,Jiko - The Cooking Place,Disney's Animal Kingdom Lodge,Table Service,$$$,True,5.0,5.0
+wdw,Jungle Navigation Co. LTD Skipper Canteen,Magic Kingdom Park,Table Service,$$,True,3.0,3.0
+wdw,Kabuki Cafe,EPCOT,Quick Service,$,False,,
+wdw,Katsura Grill,EPCOT,Quick Service,$,False,,
+wdw,Kimonos,Walt Disney World Swan Hotel,Table Service,$$,False,,
+wdw,Kona Cafe,Disney's Polynesian Village Resort,Table Service,$$,False,,
+wdw,La Cantina de San Angel,EPCOT,Quick Service,$,False,,
+wdw,La Crêperie de Paris,EPCOT,Table Service,$$,False,,
+wdw,La Hacienda de San Angel,EPCOT,Table Service,$$,False,,
+wdw,Landscape of Flavors,Disney's Art of Animation Resort,Quick Service,$$,False,,
+wdw,Le Cellier Steakhouse,EPCOT,Table Service,$$$,False,,
+wdw,Leaning Palms,Disney's Typhoon Lagoon Water Par,Quick Service,$,False,,
+wdw,Les Halles Boulangerie-Patisserie,EPCOT,Quick Service,$,True,4.0,3.0
+wdw,Liberty Tree Tavern,Magic Kingdom Park,Table Service,$$$,True,5.0,5.0
+wdw,Lottawatta Lodge,Disney's Blizzard Beach Water Park,Quick Service,$,False,,
+wdw,Lotus Blossum Café,EPCOT,Quick Service,$,False,,
+wdw,Mama Melrose's Ristorante Italiano,Disney's Hollywood Studios,Table Service,$$,True,3.0,2.0
+wdw,Maria & Enzo's Ristorante,Disney Springs,Table Service,$$,False,,
+wdw,Maya Grill,Disney's Coronado Springs Resort,Table Service,$$,False,,
+wdw,Monsieur Paul,EPCOT,Table Service,$$$$,False,,
+wdw,Morimoto Asia,Disney Springs,Table Service,$$$,True,5.0,5.0
+wdw,Narcoossee's,Disney's Grand Floridian Resort & Spa,Table Service,$$$,False,,
+wdw,Nine Dragons Restaurant,EPCOT,Table Service,$$,True,1.0,1.0
+wdw,Ohana,Disney's Polynesian Village Resort,Table Service,$$$$,False,,
+wdw,Olivia's Cafe,Disney's Old Key West Resort,Table Service,$$,True,5.0,3.0
+wdw,Paddlefish,Disney Springs,Table Service,$$$,False,,
+wdw,"Paradiso 37, Taste of the Americas",Disney Springs,Table Service,$$,False,,
+wdw,Pecos Bill Tall Tale Inn and Cafe,Magic Kingdom Park,Quick Service,$,True,2.0,1.0
+wdw,Pepe by José Andrés,Disney Springs,Table Service,$,False,,
+wdw,Picabu,Walt Disney World Dolphin Hotel,Quick Service,$,False,,
+wdw,Pinocchio Village Haus,Magic Kingdom Park,Quick Service,$,False,,
+wdw,Pizza Ponte,Disney Springs,Quick Service,$,False,,
+wdw,Pizzafari,Disney's Animal Kingdom Theme Park,Quick Service,$,False,,
+wdw,PizzeRizzo,Disney's Hollywood Studios,Quick Service,$,True,4.0,5.0
+wdw,Planet Hollywood,Disney Springs,Table Service,$$,True,5.0,5.0
+wdw,Primo Piatto,Disney's Riviera Resort,Quick Service,$,False,,
+wdw,Raglan Road™ Irish Pub and Restaurant,Disney Springs,Table Service,$$,False,,
+wdw,Rainforest Cafe®,Disney Springs or Disney's Animal Kingdom Theme Park,Table Service,$$,True,5.0,5.0
+wdw,Ravello,Four Season Resort Orlando,Table Service,$$$,False,,
+wdw,Regal Eagle Smokehouse: Craft Drafts & Barbecue,EPCOT,Quick Service,$,True,4.0,4.0
+wdw,Restaruantosaurus,Disney's Animal Kingdom Theme Park,Quick Service,$,True,5.0,
+wdw,Riverside Mill Food Court,Disney's Port Orleans Resort - Riverside,Quick Service,$,False,,
+wdw,Rix Sports Bar & Grill,Disney's Coronado Springs Resort,Table Service,$,False,,
+wdw,Roaring Fork,Disney's Wilderness Lodge,Quick Service,$,False,,
+wdw,Ronto Roasters,Disney's Hollywood Studios,Quick Service,$,False,,
+wdw,Rosa Mexicano,Walt Disney World Dolphin Hotel,Table Service,$$$,False,,
+wdw,Rose & Crown Dining Room,EPCOT,Table Service,$$,True,5.0,5.0
+wdw,Rosie's All-American Café,Disney's Hollywood Studios,Quick Service,$,False,,
+wdw,Roundup Rodeo BBQ,Disney's Hollywood Studios,Quick Service,$,True,3.0,3.0
+wdw,San Angel Inn Restaurante,EPCOT,Table Service,$$,False,,
+wdw,Sanaa,Disney's Animal Kingdom Villas - Kidani Village,Table Service,$$,False,,
+wdw,Satu'li Canteen,Disney's Animal Kingdom Theme Park,Quick Service,$,True,4.0,5.0
+wdw,Sci-Fi Dine-Inn Theater Restaruant,Disney's Hollywood Studios,Table Service,$$,True,2.0,3.0
+wdw,Sebastian's Bistro,Disney's Caribbean Beach Resort,Table Service,$$,False,,
+wdw,Shiki-Sai: Sushi Izakaya,EPCOT,Table Service,$$,False,,
+wdw,Shula's Steak House,Walt Disney World Dolphin Hotel,Table Service,$$$,False,,
+wdw,Sleepy Hollow,Magic Kingdom Park,Quick Service,$,True,2.0,3.0
+wdw,Space 220,EPCOT,Table Service,$,False,,
+wdw,Spice Road Table,EPCOT,Table Service,$,False,,
+wdw,Splitsville Dining Room,Disney Springs,Table Service,$,False,,
+wdw,Spyglass Grill,Disney's Caribbean Beach Resort,Quick Service,$,False,,
+wdw,Steakhouse 71,Disney's Contemporary Resort,Table Service,$$,False,,
+wdw,STK® Steakhouse,Disney Springs,Table Service,$$$,False,,
+wdw,Story Book Dining at Artist Point with Snow White,Disney's Wilderness Lodge,Character Dining,$$$$,False,,
+wdw,Summer House on the Lake,Disney Springs,Table Service,$$,False,,
+wdw,Sunshine Seasons,EPCOT,Quick Service,$,False,,
+wdw,T-Rex ™,Disney Springs,Table Service,$$,True,4.0,5.0
+wdw,Takumi-Tei,EPCOT,Table Service,$$$$,False,,
+wdw,Tangerine,Walt Disney World Swan Reserve,Table Service,$,False,,
+wdw,Teppan Edo,EPCOT,Table Service,$$,True,1.0,2.0
+wdw,Terralina Crafted Italian,Disney Springs,Table Service,$$,False,,
+wdw,The Artist's Palette,Disney's Saratoga Springs Resort & Spa,Quick Service,$,False,,
+wdw,"The BOATHOUSE®: Great Food, Waterfront Dining, Dream Boats™",Disney Springs,Table Service,$$$,True,5.0,4.0
+wdw,The Chuck Wagon,The Campsites at Disney's Fort Wilderness Resort,Quick Service,$,False,,
+wdw,The Crystal Palace,Magic Kingdom Park,Table Service,$$$$,False,,
+wdw,The Daily Poutine,Disney Springs,Quick Service,$,False,,
+wdw,The Diamond Horseshoe,Magic Kingdom Park,Table Service,$$$,False,,
+wdw,The Dining Room at Victoria & Albert's,Disney's Grand Floridian Resort & Spa,Table Service,$$$$,False,,
+wdw,The Edison,Disney Springs,Table Service,$$,True,3.0,3.0
+wdw,The Fountain,Walt Disney World Dolphin Hotel,Table Service,$,False,,
+wdw,The Friar's Nook,Magic Kingdom Park,Quick Service,$,True,5.0,3.0
+wdw,The Hollywood Brown Derby,Disney's Hollywood Studios,Table Service,$$$,False,,
+wdw,The Lunching Pad,Magic Kingdom Park,Quick Service,$,True,1.0,2.0
+wdw,The Mara,Disney's Animal Kingdom Lodge,Quick Service,$,False,,
+wdw,The Plaza Restaurant,Magic Kingdom Park,Table Service,$$,False,,
+wdw,The Polite Pig,Disney Springs,Quick Service,$,True,3.0,4.0
+wdw,The Turf Club Bar and Grill,Disney's Saratoga Springs Resort & Spa,Table Service,$$,False,,
+wdw,Three Bridges Bar and Grill at Villa del Lago,Disney's Coronado Springs Resort,Table Service,$$,False,,
+wdw,Tiffins Restaurant,Disney's Animal Kingdom Theme Park,Table Service,$$$,False,,
+wdw,Todd English's bluezoo,Walt Disney World Dolphin Hotel,Table Service,$$$,False,,
+wdw,"Toledo - Tapas, Steak & Seafood",Disney's Coronado Springs Resort,Table Service,$$$,False,,
+wdw,Tony's Town Square Restaurant,Magic Kingdom Park,Table Service,$$,False,,
+wdw,Topolino's Terrace - Flavors of the Riviera,Disney's Riviera Resort,Table Service,$$$,False,,
+wdw,Tortuga Tavern,Magic Kingdom Park,Quick Service,$,True,2.0,3.0
+wdw,Trail's End Restaurant,The Campsites at Disney's Fort Wilderness Resort,Quick Service,$$,False,,
+wdw,Trattoria al Forno,Disney's BoardWalk,Table Service,$$,False,,
+wdw,Tusker House Restaurant,Disney's Animal Kingdom Theme Park,Table Service,$$$$,False,,
+wdw,Tutto Italia Ristorante,EPCOT,Table Service,$$,False,,
+wdw,Typhoon Tilly's,Disney's Typhoon Lagoon Water Park,Quick Service,$,False,,
+wdw,Via Napoli Ristorante e Pizzeria,EPCOT,Table Service,$$,True,4.0,5.0
+wdw,Whispering Canyon cafe,Disney's Wilderness Lodge,Table Service,$$,False,,
+wdw,Wine Bar George - A Resturant & Bar,Disney Springs,Table Service,$$,False,,
+wdw,Wolfgang Puck Bar & Grill,Disney Springs,Table Service,$$,False,,
+wdw,Woody's Lunch Box,Disney's Hollywood Studios,Quick Service,$,False,,
+wdw,World Premiere Food Court,Disney's All-Star Movies Resort,Quick Service,$,False,,
+wdw,Yachtsman Steakhouse,Disney's Yacht Club Resort,Table Service,$$$,False,,
+wdw,Yak & Yeti™ Restaurant,Disney's Animal Kingdom Theme Park,Table Service,$$,True,5.0,5.0
+wdw,YeSake Kiosk,Disney Springs,Quick Service,$,False,,
+wdw,Yorkshire County Fish Shop,EPCOT,Quick Service,$,True,5.0,2.0
